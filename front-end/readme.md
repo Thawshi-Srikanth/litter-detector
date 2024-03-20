@@ -6,8 +6,6 @@
    git clone https://github.com/Thawshi-Srikanth/litter-detector.git
    ```
 
-   Replace `yourusername` with the actual username of the repository owner.
-
 2. **Navigate to the Front-End Directory**: Change your current directory to the front-end directory of the project:
 
    ```
